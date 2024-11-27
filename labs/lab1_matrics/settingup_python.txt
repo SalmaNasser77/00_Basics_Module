@@ -1,0 +1,18 @@
+install python and notebook:
+
+Install pyhton3
+--> sudo apt-get install python3
+
+Install pip to install with it python packages
+--> sudo apt-get install python3-pip
+
+use pip3 to install jupyter
+--> sudo pip3 install jupyter
+
+run jupyter notebook from the directory you are at
+--> jupyter notebook
+
+
+
+references:
+https://saturncloud.io/blog/how-to-install-jupyter-notebook-in-ubuntu/
